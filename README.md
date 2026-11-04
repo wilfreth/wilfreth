@@ -137,16 +137,14 @@ Marca        → marketing que no se ve genérico 📣
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wilfreth&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=F77F00&icon_color=FCBF49&text_color=C9D1D9&ring_color=C1121F" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfreth&layout=compact&hide_border=true&bg_color=0D1117&title_color=F77F00&text_color=C9D1D9&langs_count=6" />
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=wilfreth&hide_border=true&background=0D1117&ring=C1121F&fire=F77F00&currStreakLabel=FCBF49&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
-<br>
+<br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wilfreth&bg_color=0D1117&color=FCBF49&line=F77F00&point=C1121F&area=true&area_color=C1121F&hide_border=true&custom_title=Mi%20actividad" />
+<img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+
+<img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" />
+<img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
 
 </div>
 
