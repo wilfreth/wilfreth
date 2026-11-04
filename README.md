@@ -14,7 +14,7 @@
 
 ---
 
-## `> whoami`
+## `> Sobre mi`
 
 ```text
 Nombre      : Wilfreth Laing Hernández Sánchez
