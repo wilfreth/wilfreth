@@ -139,12 +139,6 @@ Marca        → marketing que no se ve genérico 📣
 
 <img src="https://streak-stats.demolab.com?user=wilfreth&hide_border=true&background=0D1117&ring=C1121F&fire=F77F00&currStreakLabel=FCBF49&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
-<br><br>
-
-<img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
-
-<img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" />
-<img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
 
 </div>
 
